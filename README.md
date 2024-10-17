@@ -9,3 +9,4 @@ Meu nome é Eduardo
 eduardo.cava@escola.pr.gov.br
 ![](link)
 A palavra **limão** deve ser destacada.
+> Escrito por Alura Start
